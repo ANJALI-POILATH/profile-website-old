@@ -1,0 +1,83 @@
+
+/* ==========================================
+   PERSONAL PORTFOLIO THEME
+   IVORY | PINK | BLACK
+========================================== */
+
+:root {
+
+    /* Background Colours */
+
+    --bg-primary: #111010;
+    --bg-secondary: #1B1718;
+    --bg-card: #241E1F;
+    --bg-ivory: #F7F0E8;
+
+
+    /* Text Colours */
+
+    --text-primary: #F7F0E8;
+    --text-secondary: #C9BDB8;
+    --text-dark: #171313;
+
+
+    /* Accent Colours */
+
+    --accent-pink: #E98BAA;
+    --accent-pink-dark: #D96C95;
+    --accent-blush: #F4C5D3;
+
+
+    /* Gradients */
+
+    --gradient-primary: linear-gradient(
+        135deg,
+        #E98BAA,
+        #F4C5D3
+    );
+
+    --gradient-background: linear-gradient(
+        135deg,
+        #111010,
+        #251A1D
+    );
+
+
+    /* Borders */
+
+    --border-color: rgba(247, 240, 232, 0.12);
+
+
+    /* Shadows */
+
+    --shadow-pink: 0 0 25px rgba(233, 139, 170, 0.20);
+
+
+    /* Typography */
+
+    --font-primary: Arial, Helvetica, sans-serif;
+    --font-heading: Georgia, "Times New Roman", serif;
+
+
+    /* Layout */
+
+    --container-width: 1250px;
+
+
+    /* Spacing */
+
+    --section-spacing: 100px;
+
+
+    /* Transitions */
+
+    --transition-speed: 0.3s;
+
+
+    /* Border Radius */
+
+    --radius-small: 8px;
+    --radius-medium: 16px;
+    --radius-large: 24px;
+
+}
